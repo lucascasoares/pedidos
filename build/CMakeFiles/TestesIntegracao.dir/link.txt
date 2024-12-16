@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/TestesIntegracao.dir/tests/testes_integracao.cpp.o CMakeFiles/TestesIntegracao.dir/src/produto.cpp.o CMakeFiles/TestesIntegracao.dir/src/catalogo.cpp.o CMakeFiles/TestesIntegracao.dir/src/pedido.cpp.o -o TestesIntegracao  lib/libgtest.a lib/libgtest_main.a lib/libgmock.a lib/libgmock_main.a spdlog/libspdlog.a lib/libgmock.a lib/libgtest.a 

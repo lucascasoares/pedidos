@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/TestesUnitarios.dir/tests/testes_unitarios.cpp.o CMakeFiles/TestesUnitarios.dir/src/produto.cpp.o CMakeFiles/TestesUnitarios.dir/src/catalogo.cpp.o CMakeFiles/TestesUnitarios.dir/src/pedido.cpp.o -o TestesUnitarios  lib/libgtest.a lib/libgtest_main.a lib/libgmock.a lib/libgmock_main.a spdlog/libspdlog.a lib/libgmock.a lib/libgtest.a 
